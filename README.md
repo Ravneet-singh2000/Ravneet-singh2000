@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravneet-singh2000
+- 👋 Hi, I’m Ravneet Singh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Sql and Power Bi
 - 💞️ I’m looking to collaborate with people who are on same track
